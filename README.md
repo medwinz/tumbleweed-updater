@@ -1,7 +1,5 @@
 # TUMBLEWEED UPDATER <img src="images/twupic.png" width="64">
 
-## About
-
 Simple bash scripts to check new snapshots and update openSUSE Tumbleweed.
 
 Currently, the only method to update openSUSE Tumbleweed is by using terminal and manually do "zypper ref" then "zypper dup". PackageKit' appcenters and YaST can't handle Tumbleweed snapshots. These tools provide an automated way to do it, it's more convenient and more beginner-friendly. And you'll get a notification if updates are available.
