@@ -54,7 +54,7 @@ doact3() {
 doact4() {
   printf "$txt8"
   sleep 3s
-  links https://github.com/DarthWound/tumbleweed-updater-cli/
+  links https://github.com/DarthWound/tumbleweed-updater/
 }
 
 ### MAIN
