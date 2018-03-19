@@ -65,7 +65,7 @@ doact3() {
 }
 
 doact4() {
-  xdg-open https://github.com/DarthWound/tumbleweed-updater-gui/ &
+  xdg-open https://github.com/DarthWound/tumbleweed-updater/ &
 }
 
 ### MAIN
