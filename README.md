@@ -1,4 +1,4 @@
-![icn](images/twupic.png)
+<img src="images/twupic.png" width="64">
 
 # About
 
