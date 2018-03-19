@@ -1,6 +1,6 @@
-<img src="images/twupic.png" width="64">
+# TUMBLEWEED UPDATER <img src="images/twupic.png" width="64">
 
-# About
+## About
 
 Simple bash scripts to check new snapshots and update openSUSE Tumbleweed.
 
@@ -10,7 +10,7 @@ Two versions: "CLI" or "GUI" _(text-based or graphical)_.
 
 Screenshot of "CLI" main menu: [click here](https://raw.githubusercontent.com/DarthWound/tumbleweed-updater/master/images/twupscreen.png)
 
-# Installation
+## Installation
 
 ENGLISH:
 ```
@@ -30,13 +30,13 @@ rm install-fr.sh
 
 You'll see `TWupdater (CLI)` _(recommended)_ and `TWupdater (GUI)` in your applications now.
 
-# Usage
+## Usage
 
 __Recommended version is "CLI"__, because you can control what "zypper dup" is doing _("GUI" enables autoconfirm which could be risky sometimes)_. If you are a beginner, don't be afraid, "CLI" version is very easy to understand and use.
 
 These tools should work on any desktop, however I've only tested with GNOME and KDE.
 
-# Tweaks
+## Tweaks
 
 - If you want to have different icons for "CLI" and "GUI":
   - `sudo sed -i 's/twupic/twupic-cli/g' /usr/share/applications/TWupdater-CLI.desktop`
