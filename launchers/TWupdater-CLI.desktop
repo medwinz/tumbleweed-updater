@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=sh snapshup-cli.sh
+Path=/usr/bin/
+Icon=twupic
+Terminal=true
+Type=Application
+Name=TWupdater (CLI)
