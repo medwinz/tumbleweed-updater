@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=snapshup-gui.sh
+Path=/usr/bin/
+Icon=twupic
+Terminal=false
+Type=Application
+Name=TWupdater (GUI)
