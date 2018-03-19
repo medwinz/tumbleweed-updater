@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=snapshek.sh
+Path=/usr/bin/
+Icon=twupic
+Terminal=false
+Type=Application
+Name=TWupdater (CHECK)
