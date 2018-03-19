@@ -2,11 +2,17 @@
 
 Simple bash scripts to check new snapshots and update openSUSE Tumbleweed.
 
-Currently, the only method to update openSUSE Tumbleweed is by using terminal and manually do "zypper ref" then "zypper dup". PackageKit' appcenters and YaST can't handle Tumbleweed snapshots. These tools provide an automated way to do it, it's more convenient and more beginner-friendly. And you'll get a notification if updates are available.
-
-Two versions: "CLI" or "GUI" _(text-based or graphical)_.
+Currently, the only method to update openSUSE Tumbleweed is by using terminal and manually do "zypper ref" then "zypper dup". PackageKit' appcenters and YaST can't handle Tumbleweed snapshots. These tools provide an automated way to do it, it's more convenient and more beginner-friendly. Two versions: "CLI" or "GUI" _(text-based or graphical)_.
 
 Screenshot of "CLI" main menu: [click here](https://raw.githubusercontent.com/DarthWound/tumbleweed-updater/master/images/twupscreen.png)
+
+## Features
+
+- Desktop notification when updates are available
+- Launchers in applications menu/overview
+- Update to latest snapshot easily
+- Quick access to new and old changelogs
+- Get a (hidden) logfile in your home folder after update
 
 ## Installation
 
@@ -26,7 +32,7 @@ sudo ./install-fr.sh
 rm install-fr.sh
 ```
 
-You'll see `TWupdater (CLI)` _(recommended)_ and `TWupdater (GUI)` in your applications now.
+You can see `TWupdater (CLI)` _(recommended)_ and `TWupdater (GUI)` in your applications now.
 
 ## Usage
 
