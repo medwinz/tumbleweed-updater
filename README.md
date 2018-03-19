@@ -1,8 +1,8 @@
 # TUMBLEWEED UPDATER <img src="images/twupic.png" width="64">
 
-Simple bash scripts to check new snapshots and update openSUSE Tumbleweed.
+Simple bash scripts to check new snapshots and update openSUSE® Tumbleweed.
 
-Currently, the only method to update openSUSE Tumbleweed is by using terminal and manually do "zypper ref" then "zypper dup". PackageKit' appcenters and YaST can't handle Tumbleweed snapshots. These tools provide an automated way to do it, it's more convenient and more beginner-friendly. Two versions: "CLI" or "GUI" _(text-based or graphical)_.
+Currently, the only method to update openSUSE® Tumbleweed is by using terminal and manually do "zypper ref" then "zypper dup". PackageKit' appcenters and YaST can't handle Tumbleweed snapshots. These tools provide an automated way to do it, it's more convenient and more beginner-friendly. Two versions: "CLI" or "GUI" _(text-based or graphical)_.
 
 Screenshot of "CLI" main menu: [click here](https://raw.githubusercontent.com/DarthWound/tumbleweed-updater/master/images/twupscreen.png)
 
