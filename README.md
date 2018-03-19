@@ -1,3 +1,5 @@
+![icn](images/twupic.png)
+
 # About
 
 Simple bash scripts to check new snapshots and update openSUSE Tumbleweed.
