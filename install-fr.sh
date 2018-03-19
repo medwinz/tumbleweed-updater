@@ -13,7 +13,7 @@ clear
 
 printf "Vérification des dépendances...\n"
 sleep 2s
-zypper refresh && zypper install libnotify-tools links lsb-release xdg-utils zenity
+zypper refresh && zypper install less libnotify-tools links lsb-release xdg-utils zenity
 
 clear
 
