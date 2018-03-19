@@ -43,6 +43,8 @@ These tools should work on any desktop, however I've only tested with GNOME and 
 ## Notes
 
 - Notifications still show after updating until you reboot your computer.
+- Logfile will have weird glitches if you open it in a text editor, because I use "zypper --color";
+  - Read it in a terminal with `cat ~/.TWupdater.txt`
 
 ## Tweaks
 
