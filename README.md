@@ -40,6 +40,10 @@ __Recommended version is "CLI"__, because you can control what "zypper dup" is d
 
 These tools should work on any desktop, however I've only tested with GNOME and KDE.
 
+## Notes
+
+- Notifications still show after updating until you reboot your computer.
+
 ## Tweaks
 
 - If you want to have different icons for "CLI" and "GUI":
