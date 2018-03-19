@@ -1,5 +1,3 @@
-![fig](images/twupba.png)
-
 # About
 
 Simple bash scripts to check new snapshots and update openSUSE Tumbleweed.
@@ -21,3 +19,11 @@ WIP
 - If you want to have different icons for "CLI" and "GUI":
   - `sudo sed -i 's/twupic/twupic-cli/g' /usr/share/applications/TWupdater-CLI.desktop`
   - `sudo sed -i 's/twupic/twupic-gui/g' /usr/share/applications/TWupdater-GUI.desktop`
+  
+- If you want to change notification frequency _(default: 45 minutes)_:
+  - `sudo sed -i 's/45m/CUSTOM-VALUE/g' /usr/bin/snapshek.sh`
+  - `CUSTOM-VALUE` can be Xm for minutes, Xh for hours, etc...
+
+---
+
+![fig](images/twupba.png)
